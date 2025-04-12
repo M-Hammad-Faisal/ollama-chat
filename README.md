@@ -134,9 +134,9 @@ version navigation.
 
 ## Development
 
-- Add new API endpoints in ollamaAPI.ts.
-- Enhance ChatWindow.tsx for additional message features.
-- Customize theme.ts for different color schemes.
+- Add new API endpoints in `ollamaAPI.ts`.
+- Enhance `ChatWindow.tsx` for additional message features.
+- Customize `theme.ts` for different color schemes.
 
 ---
 
@@ -151,19 +151,19 @@ version navigation.
 ## Contributing
 
 - Fork the repository.
-- Create a feature branch (git checkout -b feature/YourFeature).
-- Commit changes (git commit -m "Add YourFeature").
-- Push to the branch (git push origin feature/YourFeature).
+- Create a feature branch (`git checkout -b feature/YourFeature`).
+- Commit changes (`git commit -m "Add YourFeature"`).
+- Push to the branch (`git push origin feature/YourFeature`).
 - Open a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License. See the file for details.
+This project is licensed under the ![MIT License](LICENSE).
 
 ---
 
 ## Acknowledgments
 
-[Ollama](https://ollama.ai/) for the AI backend.
-[Material-UI](https://mui.com/) for the UI components.
-[React Syntax Highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) for code rendering.
+- [Ollama](https://ollama.ai/) for the AI backend.
+- [Material-UI](https://mui.com/) for the UI components.
+- [React Syntax Highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) for code rendering.
